@@ -10,4 +10,17 @@ mutual exclusion을 보장
 - mutex
 - condition variable
 
-큐 2개
+### 큐 2개
+- entry queue
+> critical section에 진입을 기다리는 큐
+
+- waiting queue
+> 조건이 충족되길 기다리는 큐
+
+wait는 while안에
+
+# 자바 예시
+
+자바에서 모니터란
+모든 객체가 모니터 갖고있음
+
