@@ -1,6 +1,7 @@
 # CS_Study
 [쉬운코드](https://www.youtube.com/@ez.)   
 [널널한개발자](https://www.youtube.com/@nullnull_not_eq_null)
+[면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer)
 
 ## 4월
 
@@ -37,3 +38,10 @@
 6. 초창기 웹 서비스 구조
 7. 웹 서비스 3대 요소
 8. WAS, JVM 그리고 RESTful API
+
+## 4월
+
+### 1주차
+1. TCP/IP
+2. TCP, UDP 차이
+3. TCP 전송 원리
